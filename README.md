@@ -46,6 +46,10 @@ To set up the File Manager on your local machine, follow these steps:
    pip install send2trash customtkinter
    ```
 
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 3. Run the application:
    ```bash
    python "File Manager v6.py"
